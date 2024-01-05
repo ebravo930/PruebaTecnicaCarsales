@@ -1,0 +1,15 @@
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\bin\Debug\net6.0\trianguloPascal.exe
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\bin\Debug\net6.0\trianguloPascal.deps.json
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\bin\Debug\net6.0\trianguloPascal.runtimeconfig.json
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\bin\Debug\net6.0\trianguloPascal.dll
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\bin\Debug\net6.0\trianguloPascal.pdb
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.csproj.AssemblyReference.cache
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.AssemblyInfoInputs.cache
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.AssemblyInfo.cs
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.csproj.CoreCompileInputs.cache
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.dll
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\refint\trianguloPascal.dll
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.pdb
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\trianguloPascal.genruntimeconfig.cache
+C:\Users\eugenio.bravo.IDENTITY\source\repos\trianguloPascal\trianguloPascal\obj\Debug\net6.0\ref\trianguloPascal.dll
